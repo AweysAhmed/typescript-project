@@ -1,5 +1,1 @@
-# typescript-project
-# typescript-project
-# typescript-project
-# typescript-project
-# typescript-project
+TypeScript project courtesy of Max's course from Udemy
